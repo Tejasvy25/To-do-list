@@ -1,0 +1,17 @@
+[
+  {
+  "tasks":
+      [
+        "To attend standup meeting",
+        "Go thorught the lms content",
+        "Attend discussion session",
+        "Attend Professional communication tasks and discussion",
+        "Do assignment in lms",
+      "Submit assignment in autolab"
+      ],
+    "period":
+    [
+      20,20,20,20,20,20
+    ]
+  }
+]
